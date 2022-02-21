@@ -1,4 +1,8 @@
-### Hi there 👋
+⚡**CAVEAT**⚡
+
+Following/Starring means bookmarking to this account (hopefully they will be visited twice). Sorry for flooding your feed intermittently. Might get rid of this peculiarity, until the network grows too large to catch up with :)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **whentojump/whentojump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
