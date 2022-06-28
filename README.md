@@ -2,6 +2,12 @@
 
 Following/Starring means bookmarking to this account (hopefully they will be visited twice). Sorry for flooding your feed intermittently. Might get rid of this peculiarity, until the network grows too large to catch up with :)
 
+**YOU CAN ALSO FIND ME AT THESE PLACES**
+
+- [Stack Overflow](https://stackoverflow.com/users/10586057/wtj): Mostly bookmarks...
+- [Telegram](http://t.me/whentojump): Occasionally checked.
+- [Twitter](https://twitter.com/wh3ntojump): Not for work, and sometimes, not _safe_ for work.
+
 <!-- ### Hi there 👋 -->
 
 <!--
